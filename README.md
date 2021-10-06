@@ -6,4 +6,4 @@
 - Typescript
 - KeyBoardEvent
 
-[Visualizar Online](https://lista-tarefas-chi.vercel.app/)
+<a href="https://lista-tarefas-chi.vercel.app/" target="_blank">Visualizar Online</a>
